@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **linkedin.com/in/sneha-kumari1/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>  **linkedin.com/in/sneha-kumari1/**
 <p align="left">
 </p>
 

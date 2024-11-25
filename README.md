@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Analytics
 - 👯 I’m looking to collaborate on filled of Data
 - 🤔 I’m looking for help with different types of Communities.
-
+- 💬 Ask me about Open Source
 - 📫 How to reach me: Through Linkedin, Discord and Github
 - ⚡ Fun fact: Nothing 
 -->

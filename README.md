@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Nothing 
 -->
  
-<h1 align="center">Hi 👋, I'm Sneha Shrivastava</h1>
+<h1 align="center">Hi👋, I'm Sneha Shrivastava</h1>
 <h3 align="center">Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehsk&label=Profile%20views&color=0e75b6&style=flat" alt="snehsk" /> </p>
